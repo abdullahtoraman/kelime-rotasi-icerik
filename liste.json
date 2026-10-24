@@ -1,0 +1,218 @@
+{
+ "bicim": 1,
+ "surum": 20261024232007,
+ "dosyalar": {
+  "sehirler.json": {
+   "boyut": 40982,
+   "ozet": "5c8b7b57f22bdb0d28ab8e0139162bf74eb2c3074cab9f8fd50efd0e0da344d5"
+  },
+  "seviyeler.json": {
+   "boyut": 42610,
+   "ozet": "b0b643b6b6baf63b563b5d5bda704d526cf7b3f4888502e165dcdd3224b43487"
+  },
+  "gorseller/gaziantep/arka.jpg": {
+   "boyut": 371192,
+   "ozet": "be8640f3d182fe0047653676bebd689bc990969c7730e432447a1f0e51a7d312"
+  },
+  "gorseller/gaziantep/zeugma/adim-0.jpg": {
+   "boyut": 268917,
+   "ozet": "4422d1049c180b4af0e84911e911a98de126b36b2982fe3da889e90b41d5e560"
+  },
+  "gorseller/gaziantep/zeugma/adim-1.jpg": {
+   "boyut": 229277,
+   "ozet": "2bc639578d5b33e045fc39da90a4326dd27e589a4c84b48a18097e2c85e0ed8c"
+  },
+  "gorseller/gaziantep/zeugma/adim-2.jpg": {
+   "boyut": 243404,
+   "ozet": "b841394003ea0183a5cf8d48d6c43c8f22223e246d440d05dbfd398f50caaa82"
+  },
+  "gorseller/gaziantep/zeugma/adim-3.jpg": {
+   "boyut": 248524,
+   "ozet": "b4ba2265d6a54f02c6c04eb1b43782a53ff17ebca6a95e97c87c7f3a3c4b36c7"
+  },
+  "gorseller/gaziantep/zeugma/adim-4.jpg": {
+   "boyut": 274950,
+   "ozet": "27d1be15763af098def901bd07f57c49104b6ce8354b09a80ddadd5b6a14ee2c"
+  },
+  "gorseller/gaziantep/zeugma/adim-5.jpg": {
+   "boyut": 229635,
+   "ozet": "5cee99a1c6495f76dfc221890212d4123d442e364309c5700c77dd30d0749d7e"
+  },
+  "gorseller/harita/dunya.jpg": {
+   "boyut": 1095058,
+   "ozet": "c8086ccd16aba9a4d799e917f243ede500fe1f7a183985502bf2378c33a41ca4"
+  },
+  "gorseller/harita/turkiye.jpg": {
+   "boyut": 375339,
+   "ozet": "68174118ee1ece5a6f96f0e713d6d8b3408bbb21b379b47db5b33d330a1f0c4b"
+  },
+  "gorseller/istanbul/arka.jpg": {
+   "boyut": 430182,
+   "ozet": "d0c895d691f4e4769a5bd66261a2b2d9517b7da07411874a28f92e1ccb80e528"
+  },
+  "gorseller/istanbul/galata/adim-0.jpg": {
+   "boyut": 194189,
+   "ozet": "a01546ea128a8cafaf186b3c46a3b792fd8343d67cbc7449d2f6c7e7c28967e5"
+  },
+  "gorseller/istanbul/galata/adim-1.jpg": {
+   "boyut": 250000,
+   "ozet": "0a15119a69e6cf0fb070529131b51227a25ae66085af2f4d942ba2f62cf87b6f"
+  },
+  "gorseller/istanbul/galata/adim-2.jpg": {
+   "boyut": 198960,
+   "ozet": "0ccc28b3bbd66062a4ef33ccd3d73be92fc2a9a1f80b11cd60bba2a54fa71057"
+  },
+  "gorseller/istanbul/galata/adim-3.jpg": {
+   "boyut": 211918,
+   "ozet": "8fbad95b7a189666fef196e71588cc056b51438bcd456bc995c9144771294d44"
+  },
+  "gorseller/istanbul/galata/adim-4.jpg": {
+   "boyut": 194792,
+   "ozet": "7551369f7e2464c2788247a75bebad7da382265a90b724ff348b92d5d688b7f5"
+  },
+  "gorseller/istanbul/galata/adim-5.jpg": {
+   "boyut": 227961,
+   "ozet": "d0decf4e41f5242b338ae47a5c19cf49b0f1b0d4c33edb9b5321be4c06a0017d"
+  },
+  "gorseller/kayseri/arka.jpg": {
+   "boyut": 327107,
+   "ozet": "92a9edfb49c204e98e04843c6e7ce93e3584b7f260f8e1701eab5685a8191244"
+  },
+  "gorseller/kayseri/kale/adim-0.jpg": {
+   "boyut": 252301,
+   "ozet": "cf9d210961c0793bf06673f026d804fbf89bcea3842b711550ecda24df325245"
+  },
+  "gorseller/kayseri/kale/adim-1.jpg": {
+   "boyut": 208107,
+   "ozet": "e8ab0525511f80d315f2449fd0586f3fa0cfef63ce3499ec3de39a336d80c177"
+  },
+  "gorseller/kayseri/kale/adim-2.jpg": {
+   "boyut": 205206,
+   "ozet": "c33c394f1b3c2adf27cc795f116d4e3ab886451d4b1ae99b09d9139eaf056c28"
+  },
+  "gorseller/kayseri/kale/adim-3.jpg": {
+   "boyut": 215455,
+   "ozet": "c50786e162607f333d1a236844ab91012f194a90bca0a1dc26f311b091b0c96e"
+  },
+  "gorseller/kayseri/kale/adim-4.jpg": {
+   "boyut": 238618,
+   "ozet": "506a956ca12018da325aa50afec5d502bcf018c5a8bf3a04dd0aff2e6d15af1e"
+  },
+  "gorseller/kayseri/kale/adim-5.jpg": {
+   "boyut": 219961,
+   "ozet": "51660e25749f5900f3f6800e3979df673b6cde10747d935fc9a5944ada3d3004"
+  },
+  "gorseller/konya/arka.jpg": {
+   "boyut": 260995,
+   "ozet": "20d23d42f432039a4c2faacee39ab726d8e400e56354a2d1324f25392a8a1691"
+  },
+  "gorseller/konya/mevlana/adim-0.jpg": {
+   "boyut": 246636,
+   "ozet": "355324b6e86b685e054b766b0fc8803fea396dc2b9482e9e4b95e5ae892c0684"
+  },
+  "gorseller/konya/mevlana/adim-1.jpg": {
+   "boyut": 144115,
+   "ozet": "23fda16343003e5ca6e728b7d0fa321e146c7c222408f5af66c0f0888c681bf8"
+  },
+  "gorseller/konya/mevlana/adim-2.jpg": {
+   "boyut": 143930,
+   "ozet": "adf39d9f49a686baffd79d1a9fb1874e3cc9174e7804ddfdc80014bfbdf72114"
+  },
+  "gorseller/konya/mevlana/adim-3.jpg": {
+   "boyut": 156650,
+   "ozet": "6398054fe872ce7f8589ab1eb22c5327f6b39a1a5b9385ab328770a57b3d8749"
+  },
+  "gorseller/konya/mevlana/adim-4.jpg": {
+   "boyut": 173742,
+   "ozet": "7a8779404f0f34cf0feaedfbcdbdb31436c1990dd9145a9321ef5395aa5fee00"
+  },
+  "gorseller/konya/mevlana/adim-5.jpg": {
+   "boyut": 202196,
+   "ozet": "badf90051e53c29e234e5d6698ec8c32a081013bf7613c84914d0484ca2f8bb6"
+  },
+  "gorseller/nevsehir/arka.jpg": {
+   "boyut": 374686,
+   "ozet": "275377145777fdadec754babd835331ebe1e7a205854d7f98c0a4292ce4abd03"
+  },
+  "gorseller/nevsehir/uchisar/adim-0.jpg": {
+   "boyut": 166619,
+   "ozet": "78aa21cc37fe6af095bfc20ef8cc03b4db94cfac6ac17f100badd9895faef35c"
+  },
+  "gorseller/nevsehir/uchisar/adim-1.jpg": {
+   "boyut": 175117,
+   "ozet": "978cd2d20b3645aa05d53730c2692b5a9501fa7f747970a20f7122c9fc81907a"
+  },
+  "gorseller/nevsehir/uchisar/adim-2.jpg": {
+   "boyut": 186292,
+   "ozet": "9b3492223d8de928b9d4ce231c210514fd242a0e1f5a97e9d195ac8536b959b3"
+  },
+  "gorseller/nevsehir/uchisar/adim-3.jpg": {
+   "boyut": 203736,
+   "ozet": "cdfa23d47063a50898bf7a5343d2a2e6c1b092f5fe3d514e126fc5962bc4a108"
+  },
+  "gorseller/nevsehir/uchisar/adim-4.jpg": {
+   "boyut": 239313,
+   "ozet": "e4a2637a0464c737b9b3feae7957fedfd0fd9a29044ab8d2cff5b85f9b3d4233"
+  },
+  "gorseller/nevsehir/uchisar/adim-5.jpg": {
+   "boyut": 274101,
+   "ozet": "ad1f47740c4b478d739e6459dcb98dd117c7ab20d6e406774addae0c82270739"
+  },
+  "gorseller/samsun/arka.jpg": {
+   "boyut": 338230,
+   "ozet": "b717884045f1693b6d82312287ab809fa43d93b862b2ac58e456b2ffa4b38c98"
+  },
+  "gorseller/samsun/bandirma/adim-0.jpg": {
+   "boyut": 190764,
+   "ozet": "cf762556bda7c2ecbce38e1997df17fd9ccc12d2b7187541d898ac5cfe121b44"
+  },
+  "gorseller/samsun/bandirma/adim-1.jpg": {
+   "boyut": 179959,
+   "ozet": "466bba73a3e25a2f902fa0e0e9abb4399dd09cd78996dcdc276c3fee9be19c67"
+  },
+  "gorseller/samsun/bandirma/adim-2.jpg": {
+   "boyut": 179200,
+   "ozet": "5ce35850c11c25c10bd04535feec9481cea34807c7a6a79a6acb8cd885049fa8"
+  },
+  "gorseller/samsun/bandirma/adim-3.jpg": {
+   "boyut": 179672,
+   "ozet": "99e802d226e670f27e065052f4dfdf7558007ea9dc83ccf57b7f206d193dd05d"
+  },
+  "gorseller/samsun/bandirma/adim-4.jpg": {
+   "boyut": 163047,
+   "ozet": "57af8f6b9f58304f024656a667474355a06464479cbb2433311ab493e37a2593"
+  },
+  "gorseller/samsun/bandirma/adim-5.jpg": {
+   "boyut": 191499,
+   "ozet": "d672764a6cdb5efad898e5531d9cd1e63528cde57c131ad343e0ad7746f94272"
+  },
+  "gorseller/trabzon/arka.jpg": {
+   "boyut": 249434,
+   "ozet": "d95ff4f08772b8e4c7c4c217d7710575ebe79ae3c701d165d6fa0b05e20032a6"
+  },
+  "gorseller/trabzon/sumela/adim-0.jpg": {
+   "boyut": 170628,
+   "ozet": "d19ef4d89c245d17b2ff48b221160e53ccb449988b614f435d2f03df8c4d62b2"
+  },
+  "gorseller/trabzon/sumela/adim-1.jpg": {
+   "boyut": 203113,
+   "ozet": "ddeac1cddfff2364f1cba2e09091eca67bdc95a5137f5b437659161e93340122"
+  },
+  "gorseller/trabzon/sumela/adim-2.jpg": {
+   "boyut": 205713,
+   "ozet": "679ed709e9ef7f501af44bba8816c16d3959715e0cee036f6bfae4caf1909d5a"
+  },
+  "gorseller/trabzon/sumela/adim-3.jpg": {
+   "boyut": 217855,
+   "ozet": "d7467a1ab989621e12d875ebdbf4c215f12bf7f3548f31f83486585a5c4da21d"
+  },
+  "gorseller/trabzon/sumela/adim-4.jpg": {
+   "boyut": 412204,
+   "ozet": "a2ef709beca0c1e0699820be2540cb01f54bfec62c0a6a93a8b5adf0b6ad9ccb"
+  },
+  "gorseller/trabzon/sumela/adim-5.jpg": {
+   "boyut": 237960,
+   "ozet": "90082cb1ad9f8ba38c99267ab1c2ce684294f83be3e92443373bfd28c61d61d4"
+  }
+ }
+}
