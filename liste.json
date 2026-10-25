@@ -1,14 +1,14 @@
 {
  "bicim": 1,
- "surum": 20261024232452,
+ "surum": 20261025085906,
  "dosyalar": {
   "sehirler.json": {
    "boyut": 40982,
    "ozet": "5c8b7b57f22bdb0d28ab8e0139162bf74eb2c3074cab9f8fd50efd0e0da344d5"
   },
   "seviyeler.json": {
-   "boyut": 42610,
-   "ozet": "b0b643b6b6baf63b563b5d5bda704d526cf7b3f4888502e165dcdd3224b43487"
+   "boyut": 43535,
+   "ozet": "b15b351a5bae78be4f1306557dd454822cfb4053bd8948477497e56d3e8bf3c3"
   },
   "gorseller/gaziantep/arka.jpg": {
    "boyut": 371192,
