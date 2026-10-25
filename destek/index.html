@@ -1,0 +1,194 @@
+<!doctype html>
+<html lang="tr">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Kelime Rotası Destek</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@700;800&family=Nunito+Sans:opsz,wght@6..12,400;6..12,600;6..12,700&display=swap">
+<style>
+/* Tek sütun politika sayfası; başlıkta oyunun harf karoları, gövdede sade metin. Renkler oyunun kendi paletinden. */
+:root{
+  --bg:#f4ede1; --surface:#fffaf2; --fg:#2b2621; --muted:#6f655a; --line:#e2d6c4;
+  --accent:#b84a33; --accent-soft:#f6dfd3; --tile:#fffaf2; --tile-fg:#2b2621; --gold:#c9921c;
+  --display:"Baloo 2", ui-rounded, system-ui, sans-serif;
+  --body:"Nunito Sans", system-ui, -apple-system, sans-serif;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#1c1814; --surface:#26211b; --fg:#f2eadf; --muted:#b3a796; --line:#3a332b;
+  --accent:#e47a5f; --accent-soft:#3a241c; --tile:#f2eadf; --tile-fg:#2b2621; --gold:#e0b04a; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#1c1814; --surface:#26211b; --fg:#f2eadf; --muted:#b3a796; --line:#3a332b;
+  --accent:#e47a5f; --accent-soft:#3a241c; --tile:#f2eadf; --tile-fg:#2b2621; --gold:#e0b04a; color-scheme:dark}
+body{background:var(--bg);color:var(--fg);font-family:var(--body);font-size:16px;line-height:1.6;
+  padding-left:max(16px, env(safe-area-inset-left, 0px));padding-right:max(16px, env(safe-area-inset-right, 0px));padding-block:40px 64px}
+.wrap{max-width:680px;margin:0 auto;display:grid;gap:40px}
+header{display:grid;gap:16px}
+.karolar{display:flex;flex-wrap:wrap;gap:6px}
+.karolar span{width:38px;height:38px;display:grid;place-items:center;background:var(--tile);color:var(--tile-fg);
+  font-family:var(--display);font-weight:800;font-size:22px;line-height:1;border-radius:8px;box-shadow:0 2px 0 var(--line)}
+.karolar span.altin{background:var(--gold);color:#fff}
+.karolar i{width:14px}
+h1{font-family:var(--display);font-weight:800;font-size:clamp(32px,8vw,46px);line-height:1;margin:0;text-wrap:balance}
+.lede{margin:0;color:var(--muted);max-width:56ch}
+nav{display:flex;flex-wrap:wrap;gap:8px}
+nav a{font-weight:700;font-size:14px;color:var(--fg);text-decoration:none;padding:6px 12px;border:1px solid var(--line);border-radius:999px;background:var(--surface)}
+nav a:hover{border-color:var(--accent)}
+a{color:inherit;text-decoration-color:var(--accent);text-underline-offset:3px}
+a:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+section{display:grid;gap:14px;scroll-margin-top:16px}
+.eyebrow{font-weight:700;font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--accent);margin:0}
+h2{font-family:var(--display);font-weight:700;font-size:28px;line-height:1.15;margin:0;text-wrap:balance}
+h3{font-weight:700;font-size:17px;margin:10px 0 0}
+p,ul{margin:0;max-width:65ch}
+ul{padding-left:20px;display:grid;gap:6px}
+.summary{background:var(--accent-soft);border-radius:10px;padding:14px 16px;font-weight:600}
+.meta{font-size:14px;color:var(--muted)}
+.contact{font-weight:700;font-size:18px;word-break:break-all;user-select:all}
+hr{border:0;border-top:1px solid var(--line);margin:0}
+footer{font-size:13px;color:var(--muted)}
+</style>
+
+<div class="wrap">
+  <header>
+    <div class="karolar" aria-hidden="true">
+      <span>K</span><span>E</span><span>L</span><span>İ</span><span>M</span><span>E</span><i></i>
+      <span class="altin">R</span><span class="altin">O</span><span class="altin">T</span><span class="altin">A</span><span class="altin">S</span><span class="altin">I</span>
+    </div>
+    <h1>Kelime Rotası</h1>
+    <p class="lede">Privacy policy and support for the Kelime Rotası word game on iPhone. · Kelime Rotası kelime oyununun gizlilik politikası ve destek sayfası.</p>
+    <nav aria-label="Sections">
+      <a href="#gizlilik">Gizlilik Politikası</a>
+      <a href="#destek">Destek</a>
+      <a href="#privacy">Privacy Policy</a>
+      <a href="#support">Support</a>
+    </nav>
+  </header>
+
+  <section id="gizlilik" lang="tr">
+    <p class="eyebrow">Türkçe</p>
+    <h2>Gizlilik Politikası</h2>
+    <p class="meta">Yürürlük tarihi: 25 Ekim 2026</p>
+    <p class="summary">Kelime Rotası kişisel verilerini toplamaz, herhangi bir sunucuya göndermez, satmaz ve kimseyle paylaşmaz. Hesap, reklam, analiz ya da takip yoktur.</p>
+
+    <h3>Cihazında kalan bilgiler</h3>
+    <p>Oyun ilerlemeni (geçtiğin seviyeler, coin ve tuğla sayın, restorasyon adımları ve bulduğun şehir kelimeleri) cihazındaki uygulama depolamasında saklar. Bu bilgiler cihazından hiç çıkmaz ve uygulamayı sildiğinde silinir.</p>
+
+    <h3>İnternet bağlantısı</h3>
+    <p>Kelime listesi, seviyeler ve şehir bilgileri uygulamanın içinde gelir; oyun internet olmadan da oynanır. İnternet varsa uygulama açılışta yeni şehir ve görsel güncellemesi olup olmadığına bakar ve bunları GitHub Pages üzerinden indirir. Bu indirme sırasında senden hiçbir bilgi gönderilmez; GitHub, her web sitesinde olduğu gibi isteğin IP adresini kendi kayıtlarında kısa süre tutabilir (GitHub Gizlilik Bildirimi geçerlidir).</p>
+    <h3>Game Center</h3>
+    <p>Cihazında Game Center'a giriş yaptıysan, seviye ve seri puanların ile kazandığın başarımlar Apple'ın Game Center hizmetine gönderilir ve Apple'ın gizlilik politikasına tabidir. Biz bu verileri toplamayız ya da saklamayız. Game Center'a giriş yapmazsan hiçbir şey gönderilmez.</p>
+    <h3>Bildirimler</h3>
+    <p>Günlük hatırlatma isteğe bağlıdır ve yalnızca sen açarsan, cihazında yerel olarak kurulur. Bildirim için hiçbir sunucu kullanılmaz.</p>
+
+    <h3>Cihaz özellikleri</h3>
+    <p>Oyun kameraya, mikrofona, konuma, rehbere ya da fotoğraflara erişmez.</p>
+
+    <h3>Çocuklar</h3>
+    <p>Kelime Rotası her yaşa uygundur. Hiç kişisel veri toplamadığı için çocuklardan da veri toplamaz.</p>
+
+    <h3>Değişiklikler</h3>
+    <p>Bu politika değişirse güncel hali yeni yürürlük tarihiyle bu sayfada yayınlanır.</p>
+
+    <h3>İletişim</h3>
+    <p>Bu politikayla ilgili soruların için: <a class="contact" href="mailto:abdullahtrmn@gmail.com">abdullahtrmn@gmail.com</a></p>
+  </section>
+
+  <section id="destek" lang="tr">
+    <p class="eyebrow">Türkçe</p>
+    <h2>Destek</h2>
+    <h3>Nasıl oynanır</h3>
+    <ul>
+      <li>Çemberdeki harflerin üzerinde parmağını kaydırarak kelime yaz; parmağını kaldırınca kelime denenir.</li>
+      <li>Izgaradaki bütün kelimeleri bulunca seviye biter; tuğla ve coin kazanırsın.</li>
+      <li>Altın renkte parlayan kelimeler şehre özgü kelimelerdir ve ekstra tuğla verir. Izgarada olmayan geçerli kelimeler bonus coin verir.</li>
+      <li>Tuğlalarla şehrin simge yapısını adım adım restore edersin. Yöresel Lezzet seviyelerinde şehrin meşhur yemeğini kelime kelime çözersin.</li>
+    </ul>
+    <h3>Sık sorulanlar</h3>
+    <ul>
+      <li><strong>Takıldım, ne yapayım?</strong> Ampul düğmesi coin karşılığında bir harf açar. Karıştır düğmesi çemberdeki harflerin yerini değiştirir.</li>
+      <li><strong>Doğru bir kelimeyi kabul etmedi.</strong> Oyun yaygın Türkçe kelimelerle çalışır; bazı nadir ya da çekimli kelimeler listede olmayabilir. Kelimeyi bize yazarsan listeye eklemeyi değerlendiririz.</li>
+      <li><strong>İlerlemem kayboldu.</strong> İlerleme sadece cihazında saklanır. Uygulamayı silersen ya da yeni telefona geçersen oyun baştan başlar.</li>
+    </ul>
+    <h3>İletişim</h3>
+    <p>Bir hata mı buldun, uygunsuz bir kelime mi gördün ya da bir fikrin mi var? <a class="contact" href="mailto:abdullahtrmn@gmail.com">abdullahtrmn@gmail.com</a> adresine yaz. Lütfen telefon modelini, şehri ve seviye numarasını da ekle.</p>
+  </section>
+
+  <hr>
+
+  <section id="privacy" lang="en">
+    <p class="eyebrow">English</p>
+    <h2>Privacy Policy</h2>
+    <p class="meta">Effective date: October 25, 2026</p>
+    <p class="summary">Kelime Rotası does not collect, send to any server, sell or share your personal data. There are no accounts, ads, analytics or tracking.</p>
+
+    <h3>What stays on your device</h3>
+    <p>The game saves your progress (completed levels, coins and bricks, restoration steps and the city words you found) in the app's local storage on your device. This data never leaves your device and is deleted when you delete the app.</p>
+
+    <h3>Internet connection</h3>
+    <p>The word list, levels and city information ship inside the app, and the game is playable offline. When online, the app checks for new cities and images at launch and downloads them from GitHub Pages. No information about you is sent; like any website, GitHub may briefly keep the request's IP address in its logs (the GitHub Privacy Statement applies).</p>
+    <h3>Game Center</h3>
+    <p>If you are signed in to Game Center on your device, your level and streak scores and the achievements you earn are sent to Apple's Game Center service and are subject to Apple's privacy policy. We do not collect or store this data. If you are not signed in, nothing is sent.</p>
+    <h3>Notifications</h3>
+    <p>The daily reminder is optional, only set up if you turn it on, and is scheduled locally on your device. No server is used for notifications.</p>
+
+    <h3>Device features</h3>
+    <p>The game does not access your camera, microphone, location, contacts or photos.</p>
+
+    <h3>Children</h3>
+    <p>Kelime Rotası is suitable for all ages. Because it collects no personal data, it collects none from children.</p>
+
+    <h3>Changes</h3>
+    <p>If this policy changes, the updated version will be published on this page with a new effective date.</p>
+
+    <h3>Contact</h3>
+    <p>Questions about this policy: <a class="contact" href="mailto:abdullahtrmn@gmail.com">abdullahtrmn@gmail.com</a></p>
+  </section>
+
+  <section id="support" lang="en">
+    <p class="eyebrow">English</p>
+    <h2>Support</h2>
+    <h3>How to play</h3>
+    <ul>
+      <li>Swipe across the letters in the wheel to spell a word; lift your finger to submit it.</li>
+      <li>Find every word in the grid to finish the level and earn bricks and coins.</li>
+      <li>Words that glow gold belong to the city and give an extra brick. Valid words that are not in the grid give bonus coins.</li>
+      <li>Spend bricks to restore the city's landmark step by step. In Local Flavor levels you solve the city's famous dish one word at a time.</li>
+    </ul>
+    <h3>Common questions</h3>
+    <ul>
+      <li><strong>I'm stuck.</strong> The light bulb reveals one letter for coins. The shuffle button rearranges the letters in the wheel.</li>
+      <li><strong>A correct word was not accepted.</strong> The game uses common Turkish words; some rare or inflected words may be missing. Send us the word and we will consider adding it.</li>
+      <li><strong>My progress disappeared.</strong> Progress is stored only on your device. Deleting the app or moving to a new phone starts the game from the beginning.</li>
+    </ul>
+    <h3>Contact</h3>
+    <p>Found a bug, an inappropriate word or have an idea? Write to <a class="contact" href="mailto:abdullahtrmn@gmail.com">abdullahtrmn@gmail.com</a>. Please include your phone model, the city and the level number.</p>
+  </section>
+
+  <hr>
+
+  <section id="kaynaklar">
+    <p class="eyebrow">Kaynaklar · Credits</p>
+    <h2>Kelime verisi</h2>
+    <p>Oyundaki kelime listesi aşağıdaki açık kaynaklardan derlenmiş ve oyun için süzülmüştür. · The word list is compiled and filtered from the open sources below.</p>
+    <ul>
+      <li><a href="https://tr.wiktionary.org">Vikisözlük</a> kelime listesi, <a href="https://github.com/mertemin/turkish-word-list">mertemin/turkish-word-list</a> aracılığıyla · CC BY-SA</li>
+      <li><a href="https://github.com/hermitdave/FrequencyWords">hermitdave/FrequencyWords</a>, Türkçe kelime sıklık listesi · CC BY-SA 4.0</li>
+    </ul>
+    <h2>Fotoğraflar</h2>
+    <p>Şehir arka planları Wikimedia Commons'taki açık lisanslı fotoğraflardır; boyutları küçültülmüş, okunurluk için üstlerine koyu bir geçiş eklenmiştir. · City backgrounds are openly licensed photos from Wikimedia Commons, resized and overlaid with a dark gradient for legibility.</p>
+    <ul>
+      <li>İstanbul: <a href="https://commons.wikimedia.org/wiki/File:The_Blue_Mosque_at_sunset.jpg">The Blue Mosque at sunset.jpg</a>, Constantin Barbu · <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a></li>
+      <li>Samsun: <a href="https://commons.wikimedia.org/wiki/File:Band%C4%B1rma_Vapuru_Samsun.jpg">Bandırma Vapuru Samsun.jpg</a>, Bilgiamiri · <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></li>
+      <li>Trabzon: <a href="https://commons.wikimedia.org/wiki/File:S%C3%BCmela_Manast%C4%B1r%C4%B1_2014-1.jpg">Sümela Manastırı 2014-1.jpg</a>, Hamdigumus · <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en">CC0</a></li>
+      <li>Kayseri: <a href="https://commons.wikimedia.org/wiki/File:Kayseri_B%C3%BCr%C3%BCng%C3%BCz_Camii_ve_Erciyes_Da%C4%9F%C4%B1.jpg">Kayseri Bürüngüz Camii ve Erciyes Dağı.jpg</a>, Abdurrahman Çam · <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></li>
+      <li>Nevşehir (Kapadokya): <a href="https://commons.wikimedia.org/wiki/File:Balloons_over_Goreme.JPG">Balloons over Goreme.JPG</a>, José Luiz · <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a></li>
+      <li>Konya: <a href="https://commons.wikimedia.org/wiki/File:Mevlana_M%C3%BCzesi_03.jpg">Mevlana Müzesi 03.jpg</a>, Bernard Gagnon · <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a></li>
+      <li>Gaziantep: <a href="https://commons.wikimedia.org/wiki/File:Gaziantep_Castle_in_2018.jpg">Gaziantep Castle in 2018.jpg</a>, William John Gauthier · <a href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a></li>
+    </ul>
+    <h2>Harita</h2>
+    <p>Ülke sınırları <a href="https://www.naturalearthdata.com">Natural Earth</a> (kamu malı) verisinden, <a href="https://github.com/topojson/world-atlas">world-atlas</a> (ISC) aracılığıyla.</p>
+    <p>Uydu görüntüsü: NASA Earth Observatory, <a href="https://science.nasa.gov/earth/earth-observatory/blue-marble-next-generation/base-topography-bathymetry">Blue Marble Next Generation</a> (Temmuz 2004, topoğrafya ve batimetri; Reto Stöckli, NASA GSFC). Kamu malı.</p>
+  </section>
+
+  <footer>© 2026 Abdullah Toraman · Kelime Rotası</footer>
+</div>
