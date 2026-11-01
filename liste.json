@@ -1,10 +1,10 @@
 {
  "bicim": 2,
- "surum": 20261101130137,
+ "surum": 20261101130408,
  "dosyalar": {
   "sehirler.json": {
-   "boyut": 172634,
-   "ozet": "aa1f5ad25623bb1d942a6d008cfb0da92ebbb26ee5d8a097013bf7f6bb30fb96"
+   "boyut": 172619,
+   "ozet": "ceec65d5d32a17f577f96b861ad9bd564c87483bbcea21f56577a7522b5cfc68"
   },
   "seviyeler.json": {
    "boyut": 1522989,
