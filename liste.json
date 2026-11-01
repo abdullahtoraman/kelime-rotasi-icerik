@@ -1,14 +1,206 @@
 {
- "bicim": 1,
- "surum": 20261029190444,
+ "bicim": 2,
+ "surum": 20261101130137,
  "dosyalar": {
   "sehirler.json": {
-   "boyut": 41260,
-   "ozet": "abf372356712af1fb6ff6ba05a30113feac04c77c3578e65f542e0a1c604029c"
+   "boyut": 172634,
+   "ozet": "aa1f5ad25623bb1d942a6d008cfb0da92ebbb26ee5d8a097013bf7f6bb30fb96"
   },
   "seviyeler.json": {
-   "boyut": 131189,
-   "ozet": "e2a8a0c95c18eb8a8931e6e2134b4c45f160f0b6632df3c49ae60ed2765d4606"
+   "boyut": 1522989,
+   "ozet": "a222059cd8fd545566016fcf9d0321b6969b00b12de6c3bb624ebb2574e19880"
+  },
+  "gorseller/ankara/anitkabir/adim-0.jpg": {
+   "boyut": 310516,
+   "ozet": "47703843a08545d5ce061422d870641825f1ca421a2a7e58c7e002c14c649896"
+  },
+  "gorseller/ankara/anitkabir/adim-1.jpg": {
+   "boyut": 332473,
+   "ozet": "6962b7b362b403f63191a3201e4ef9474ed9e5db9c0eca4200dc1b5d93101437"
+  },
+  "gorseller/ankara/anitkabir/adim-2.jpg": {
+   "boyut": 219652,
+   "ozet": "d3f16f24df0c6d0dc3b817b983975d08dd1c3723dcd206c0be9b495bd2ec1274"
+  },
+  "gorseller/ankara/anitkabir/adim-3.jpg": {
+   "boyut": 203734,
+   "ozet": "def36a78770ff0c1c92792c8cbbbd89c7cc4a28e21e5099266afefba510f7526"
+  },
+  "gorseller/ankara/anitkabir/adim-4.jpg": {
+   "boyut": 185520,
+   "ozet": "9ce974217e2aab79f9993106aea3a3f3fa236bcc48958f054f8be3868a5bfc47"
+  },
+  "gorseller/ankara/anitkabir/adim-5.jpg": {
+   "boyut": 202268,
+   "ozet": "e22acbea4e80549db5a1baf385be814b9c520196817a5b7554391587205f714f"
+  },
+  "gorseller/antalya/aspendos/adim-0.jpg": {
+   "boyut": 180309,
+   "ozet": "3673b5e0655f889802d07c78ba5f94066140f38dfb069f1143d4861e8fe9c97a"
+  },
+  "gorseller/antalya/aspendos/adim-1.jpg": {
+   "boyut": 183989,
+   "ozet": "b68c5e3c4831134a77d36b23713a23597f1316565fa862a98f93ed37f5102a34"
+  },
+  "gorseller/antalya/aspendos/adim-2.jpg": {
+   "boyut": 189659,
+   "ozet": "e5425b4c84f413e889c24b31f3ae913106a7ddb17ba457d9c3d90891f288b40e"
+  },
+  "gorseller/antalya/aspendos/adim-3.jpg": {
+   "boyut": 186325,
+   "ozet": "85dfb8ed17ae297805ee970a3c6ecebdc39c532bb9caaa1e6ba0d8b622c87086"
+  },
+  "gorseller/antalya/aspendos/adim-4.jpg": {
+   "boyut": 198533,
+   "ozet": "a1051da51f2e7edd168d744e5a5b208ba2536d0c38bd9605cf5eaddcba5abe2f"
+  },
+  "gorseller/antalya/aspendos/adim-5.jpg": {
+   "boyut": 228941,
+   "ozet": "d9cdb203d8338e725f019a6f55311fff64ee93c89fea5cb833a478d21d155f1c"
+  },
+  "gorseller/atina/herodes/adim-0.jpg": {
+   "boyut": 224794,
+   "ozet": "c9fa46d0a029cbcf47283a9c100f80dd808c700bff5ff2b645287201244a1dea"
+  },
+  "gorseller/atina/herodes/adim-1.jpg": {
+   "boyut": 237906,
+   "ozet": "c097e02a7733d762d0d298b4853db787e774ed3223145b1487aa10fe9b5c0b19"
+  },
+  "gorseller/atina/herodes/adim-2.jpg": {
+   "boyut": 219085,
+   "ozet": "92f85206fc97d3d72c9a9a026bfcebc9ad5086a09ebb189ce3a655dc47877452"
+  },
+  "gorseller/atina/herodes/adim-3.jpg": {
+   "boyut": 219584,
+   "ozet": "0e02b298a65c5768fa3a63a1a82a0d6e8daa411295fdc44b7be0907a285aafdd"
+  },
+  "gorseller/atina/herodes/adim-4.jpg": {
+   "boyut": 236602,
+   "ozet": "fe962d9c5cffcd99294004decd2914bb4f3e903907c005952c8c6a39497ade6e"
+  },
+  "gorseller/atina/herodes/adim-5.jpg": {
+   "boyut": 282301,
+   "ozet": "72d6b6a03fdc6bb41d9bf9606a5544b7d4f0ff05fef2c617b49cf6d2f0f827fc"
+  },
+  "gorseller/atina/partenon/adim-0.jpg": {
+   "boyut": 170922,
+   "ozet": "c9f893d9187c68b916c7a94a4c2c7ffb11da010185588abf9385ee09509b84ab"
+  },
+  "gorseller/atina/partenon/adim-1.jpg": {
+   "boyut": 167347,
+   "ozet": "ccc4b923bec44772bcc32b2cfbcb611364806fd85885e0052dd4c323bb3f21b6"
+  },
+  "gorseller/atina/partenon/adim-2.jpg": {
+   "boyut": 169910,
+   "ozet": "444ab99409444bcc783d52e381052b9f5ce7abc93f9858f5c9554b9ae981365e"
+  },
+  "gorseller/atina/partenon/adim-3.jpg": {
+   "boyut": 176959,
+   "ozet": "b7bea331ab4991fb4c7f9abb800dcb59c76fbc4c3f564b21846a9d46c81b41d3"
+  },
+  "gorseller/atina/partenon/adim-4.jpg": {
+   "boyut": 189078,
+   "ozet": "b52071514e3b182a28e5aca4b502b1599717213cf8aa58c3f7a9993fded2553a"
+  },
+  "gorseller/atina/partenon/adim-5.jpg": {
+   "boyut": 219974,
+   "ozet": "47b0ed66d7522dce28b81522841fe7a0b962bcca72245d5afad93239fa0b86e9"
+  },
+  "gorseller/barselona/park_guell/adim-0.jpg": {
+   "boyut": 314535,
+   "ozet": "0ba4f1062944041176f16a489f2e995b26f9c1ae098fe7ca135e58841a80cb49"
+  },
+  "gorseller/barselona/park_guell/adim-1.jpg": {
+   "boyut": 231308,
+   "ozet": "745f12248bccd755d8817b98c285aab33bd1d3cf26811f318f45f3ecb84d0fdc"
+  },
+  "gorseller/barselona/park_guell/adim-2.jpg": {
+   "boyut": 229079,
+   "ozet": "a1fcccbf1e497465478adc982d2cd5d201f2755b308037461fa74a7e419dc3a8"
+  },
+  "gorseller/barselona/park_guell/adim-3.jpg": {
+   "boyut": 237764,
+   "ozet": "af15d404619f829e92b4a1093e1b5e4d1f5c97c5e42649737fc5ab4fa33f0060"
+  },
+  "gorseller/barselona/park_guell/adim-4.jpg": {
+   "boyut": 258714,
+   "ozet": "497d841ddab1a5d9cf9acc74748ff4f6f70999e4f4462d08f0d203ea94caaf25"
+  },
+  "gorseller/barselona/park_guell/adim-5.jpg": {
+   "boyut": 286034,
+   "ozet": "cd01e88d1afd887b499ff67886859ae22907048d1ad3f3a9a30d49a418503c37"
+  },
+  "gorseller/barselona/sagrada_familia/adim-0.jpg": {
+   "boyut": 186437,
+   "ozet": "f979ce2e3fd6b60406cfe8d835c2aadd940f365b273946a29f17e3f894379f62"
+  },
+  "gorseller/barselona/sagrada_familia/adim-1.jpg": {
+   "boyut": 178154,
+   "ozet": "1c4eea928d8953a4c62f21f37e055dcc5b2c2948adbd85d538ac88c6101199dc"
+  },
+  "gorseller/barselona/sagrada_familia/adim-2.jpg": {
+   "boyut": 182066,
+   "ozet": "8b487c560c98a9ca5d7c81021e9601658d6135552b775283e1bf4d3d35b22607"
+  },
+  "gorseller/barselona/sagrada_familia/adim-3.jpg": {
+   "boyut": 185760,
+   "ozet": "fb5bb6e71ff145742410bd78a6468ca447d1d0e7607811b32cc1119ea7964d24"
+  },
+  "gorseller/barselona/sagrada_familia/adim-4.jpg": {
+   "boyut": 193946,
+   "ozet": "614d1df7521b31d2e5554b8271efe2024178656ada08bafea3111c7dc75f90f0"
+  },
+  "gorseller/barselona/sagrada_familia/adim-5.jpg": {
+   "boyut": 230121,
+   "ozet": "e04848a2f616ab84255f473f75929f0cbd59a47c52b611e7aefa521a5b1f6ce0"
+  },
+  "gorseller/berlin/brandenburg/adim-0.jpg": {
+   "boyut": 165300,
+   "ozet": "d046ebe96cfc204ef29107dd270427ee2d164654e2fcd083d6395bf2581567fb"
+  },
+  "gorseller/berlin/brandenburg/adim-1.jpg": {
+   "boyut": 140037,
+   "ozet": "50c91df25c69dce9f33c96bd3045ff9300ef7fa4106af23dd6080d102efa91f4"
+  },
+  "gorseller/berlin/brandenburg/adim-2.jpg": {
+   "boyut": 139082,
+   "ozet": "c33377319b822ae0e484a0eccc5d55027747e2a5b5c105c542f7075b280713ac"
+  },
+  "gorseller/berlin/brandenburg/adim-3.jpg": {
+   "boyut": 163208,
+   "ozet": "2a9d3b7415fb4dfbb9e67ba4be333a76289affdac362a54910fc56023ac93a1c"
+  },
+  "gorseller/berlin/brandenburg/adim-4.jpg": {
+   "boyut": 179583,
+   "ozet": "12e97ffbb2cf6318fc790b10be28b1371072ba46fb138e314a40c2f8c3746d06"
+  },
+  "gorseller/berlin/brandenburg/adim-5.jpg": {
+   "boyut": 212182,
+   "ozet": "3b9967cf9b42386939fba14380222a20e8fe01aa779a4864a3ac99509e7384b1"
+  },
+  "gorseller/bursa/ulu_cami/adim-0.jpg": {
+   "boyut": 210565,
+   "ozet": "c4440ab159f227269418681421c6b20a73ab511a968efe82fd07a4644cf5b163"
+  },
+  "gorseller/bursa/ulu_cami/adim-1.jpg": {
+   "boyut": 198248,
+   "ozet": "38de1956185997754dd66fb98a46301bdd2984805d27ba15b88a6b6cd189742c"
+  },
+  "gorseller/bursa/ulu_cami/adim-2.jpg": {
+   "boyut": 208876,
+   "ozet": "9f0c9f4a549556efc2ba8c56fa84e7b733017f09a34eb7064409b9922be13ede"
+  },
+  "gorseller/bursa/ulu_cami/adim-3.jpg": {
+   "boyut": 193453,
+   "ozet": "71e613193174f3e06ba42eb876ded96fb1736544f791507ddd6946dd34ab4fef"
+  },
+  "gorseller/bursa/ulu_cami/adim-4.jpg": {
+   "boyut": 206888,
+   "ozet": "cf53c30a3de424bd490d9028ca47d41f586fa1b5765ed1ce81ad4b439cf3d1d7"
+  },
+  "gorseller/bursa/ulu_cami/adim-5.jpg": {
+   "boyut": 236327,
+   "ozet": "89623bedb932dfbc0eeeb6f0af8602894dd2f32e3462634c3fe0613eae958f8a"
   },
   "gorseller/gaziantep/arka.jpg": {
    "boyut": 371192,
@@ -98,6 +290,54 @@
    "boyut": 217574,
    "ozet": "9144ef464baaaecd97d89b956de6b1edecedcc706545dfeafec5686b49ce4bda"
   },
+  "gorseller/izmir/saat_kulesi/adim-0.jpg": {
+   "boyut": 213641,
+   "ozet": "db248899ec036e6e70fd71c7f233c56623a5d8b1d81f0bba8b3af7a73b29fda7"
+  },
+  "gorseller/izmir/saat_kulesi/adim-1.jpg": {
+   "boyut": 181374,
+   "ozet": "79669345e994c6ecdf052cf4812325f41c0c5b5f68088e94a59d682a506b9f8d"
+  },
+  "gorseller/izmir/saat_kulesi/adim-2.jpg": {
+   "boyut": 176110,
+   "ozet": "d76c8b6bb991328dfe5e71adcc3488f168d15501ff5301eb3477b3773e9a8ef1"
+  },
+  "gorseller/izmir/saat_kulesi/adim-3.jpg": {
+   "boyut": 177234,
+   "ozet": "ff4bdd8a83213e42f1bc184a844ef6ff15ad5eaa70a73fbebb8f8b4f12b7c2a0"
+  },
+  "gorseller/izmir/saat_kulesi/adim-4.jpg": {
+   "boyut": 187055,
+   "ozet": "2915dae19fb9514beb9b573cc501fad81d70c031576f0ee1c420075a52255b91"
+  },
+  "gorseller/izmir/saat_kulesi/adim-5.jpg": {
+   "boyut": 212451,
+   "ozet": "3895965e9138ec06ec9431d99eeb469ea399976f748126fb5ccd5668fd6a6d5f"
+  },
+  "gorseller/kahire/mehmet_ali_pasa/adim-0.jpg": {
+   "boyut": 225197,
+   "ozet": "c9d5a6e91655e28fc62811ae921a649b00d1d2c061f38d674803ecd75d906bb2"
+  },
+  "gorseller/kahire/mehmet_ali_pasa/adim-1.jpg": {
+   "boyut": 174662,
+   "ozet": "d5b43c0e89c540d46e3e6e5f2ea063fcf97cab660f0c5ed69b0e324f930fe4a6"
+  },
+  "gorseller/kahire/mehmet_ali_pasa/adim-2.jpg": {
+   "boyut": 140688,
+   "ozet": "48765c153b283eca5c61ef3cf5d472580e9d81446084a16199b8fdaba4cf7333"
+  },
+  "gorseller/kahire/mehmet_ali_pasa/adim-3.jpg": {
+   "boyut": 143211,
+   "ozet": "8937c00795093e092b0bb0cdbd3cd04022af744ea81f58765f9c2d0add1ee574"
+  },
+  "gorseller/kahire/mehmet_ali_pasa/adim-4.jpg": {
+   "boyut": 150635,
+   "ozet": "ae0516bbbbe256bafac5a46ff55d3a471c91790865e1a46293f9adc28b613ff5"
+  },
+  "gorseller/kahire/mehmet_ali_pasa/adim-5.jpg": {
+   "boyut": 87232,
+   "ozet": "0c54073d68237e9e4eb918a63c9ff92d7fc6d74cdff86a23c2510a327e7d2b78"
+  },
   "gorseller/kayseri/arka.jpg": {
    "boyut": 327107,
    "ozet": "92a9edfb49c204e98e04843c6e7ce93e3584b7f260f8e1701eab5685a8191244"
@@ -154,6 +394,126 @@
    "boyut": 202196,
    "ozet": "badf90051e53c29e234e5d6698ec8c32a081013bf7613c84914d0484ca2f8bb6"
   },
+  "gorseller/luksor/karnak/adim-0.jpg": {
+   "boyut": 124287,
+   "ozet": "37bea45529854ac7f7b6e2c262b2394ab4f26e2e7ed9c7796dd312a2cbf54d09"
+  },
+  "gorseller/luksor/karnak/adim-1.jpg": {
+   "boyut": 140392,
+   "ozet": "42ad2d352e862daaedd627ef063f1953b255a07f7e0d4a4e9b31c5fa69c9284d"
+  },
+  "gorseller/luksor/karnak/adim-2.jpg": {
+   "boyut": 139929,
+   "ozet": "fd848b0fcb10b2ae161ad01798dc93c5b7855a2690cdfcd9d684a5f297cd376f"
+  },
+  "gorseller/luksor/karnak/adim-3.jpg": {
+   "boyut": 158014,
+   "ozet": "84ad776bda7b8311cedd99ac5541c4420ce8aaa80b0bfbec44ae0477d2c393f1"
+  },
+  "gorseller/luksor/karnak/adim-4.jpg": {
+   "boyut": 176724,
+   "ozet": "abba5f87bfaa34fca3faea5d9a0f68ed0862680c83aae497320dfbfed6339a2b"
+  },
+  "gorseller/luksor/karnak/adim-5.jpg": {
+   "boyut": 210795,
+   "ozet": "0a45cdbe156b15ec74859f278bab51779e88e217f0c7d1a89943d1533338d1ce"
+  },
+  "gorseller/madrid/kraliyet_sarayi/adim-0.jpg": {
+   "boyut": 253279,
+   "ozet": "70542fa8d8a3083b4bb937dbb7b4d2a667e9e4273244e1b667e1aaa5d7351058"
+  },
+  "gorseller/madrid/kraliyet_sarayi/adim-1.jpg": {
+   "boyut": 210269,
+   "ozet": "f1ba71b4838651ea5c9b40b42837b87098ec3da0fc4a1fc0eb5ec0d793ab186f"
+  },
+  "gorseller/madrid/kraliyet_sarayi/adim-2.jpg": {
+   "boyut": 182726,
+   "ozet": "2b0b77795d34efaed45364716b56be978015cba120cfccaa7c6440d8664a5c63"
+  },
+  "gorseller/madrid/kraliyet_sarayi/adim-3.jpg": {
+   "boyut": 198977,
+   "ozet": "25481dfce48d650b024731d36bcb24a6d7111c7b1084882fb53af68dc0a99675"
+  },
+  "gorseller/madrid/kraliyet_sarayi/adim-4.jpg": {
+   "boyut": 214252,
+   "ozet": "93b1b44cf9bb92e943dc40af37cac3cb4698f13d8423a32111ef9bad3849337e"
+  },
+  "gorseller/madrid/kraliyet_sarayi/adim-5.jpg": {
+   "boyut": 251814,
+   "ozet": "68982651e4b837d2412e64aa29de05584619e391ac0b41c96bc00aecb64cbfbc"
+  },
+  "gorseller/mardin/zinciriye/adim-0.jpg": {
+   "boyut": 202838,
+   "ozet": "ed6293eb734e9207a0cb459d031dfdfb91a93e81237f28b583d4c42480589dc4"
+  },
+  "gorseller/mardin/zinciriye/adim-1.jpg": {
+   "boyut": 187976,
+   "ozet": "5cc9dca37650dcf436485ed391047fdf6f655338707ffbd72fa118fe2369366a"
+  },
+  "gorseller/mardin/zinciriye/adim-2.jpg": {
+   "boyut": 195852,
+   "ozet": "d4f0d7d7014a04e1c55ebbd2f230623a2039a99b6f30c777c2812f8d6bda3a0d"
+  },
+  "gorseller/mardin/zinciriye/adim-3.jpg": {
+   "boyut": 191174,
+   "ozet": "1f81b6c93f2cd0f90a621bd04f3de1ec13708879847da36742772797cd50e326"
+  },
+  "gorseller/mardin/zinciriye/adim-4.jpg": {
+   "boyut": 200807,
+   "ozet": "11c66ad04217f2f9b68df106d529a7d6c0de9a021a8bca2c3a87b94cbdf6ec60"
+  },
+  "gorseller/mardin/zinciriye/adim-5.jpg": {
+   "boyut": 221649,
+   "ozet": "849d43049e1342e0ffce1fd0b7504237ddc15ac0d65c78afcd3248724c11ea97"
+  },
+  "gorseller/munih/frauenkirche/adim-0.jpg": {
+   "boyut": 207019,
+   "ozet": "aaa963076a7b89875f34156eb0b1807b8cf12a644e09e003aca2587218759e87"
+  },
+  "gorseller/munih/frauenkirche/adim-1.jpg": {
+   "boyut": 200939,
+   "ozet": "9d1e8508d6379c26082759f357968275104d5da081225e61e3d9896c0b57f914"
+  },
+  "gorseller/munih/frauenkirche/adim-2.jpg": {
+   "boyut": 192143,
+   "ozet": "ac6aebfa1d4a3b9620edfc80c0eb9e2bfbfe68ad1b1e053e76666568f1e93162"
+  },
+  "gorseller/munih/frauenkirche/adim-3.jpg": {
+   "boyut": 206054,
+   "ozet": "bf55256ba973cd3887e1eec3011d66785d9ae645827f56dc3e4957fc99d7c8d4"
+  },
+  "gorseller/munih/frauenkirche/adim-4.jpg": {
+   "boyut": 217102,
+   "ozet": "0b37052a177d1e1297e012527c43b944fdf65c15cdbc3732a29a2ca652154fe2"
+  },
+  "gorseller/munih/frauenkirche/adim-5.jpg": {
+   "boyut": 242186,
+   "ozet": "f84368459c831a835bb97a4549ad2faf19550cd465c2b47121298e8e60902ce6"
+  },
+  "gorseller/munih/yeni_belediye/adim-0.jpg": {
+   "boyut": 183959,
+   "ozet": "ed7f9742affb5f4ce931d2975c4cbc11064aec2069cb93d74c9f3264f64acd7b"
+  },
+  "gorseller/munih/yeni_belediye/adim-1.jpg": {
+   "boyut": 152356,
+   "ozet": "b8b1616d0788e2ad772e43e25f6d17ace7cab53a607b9714201b84e2d47629fb"
+  },
+  "gorseller/munih/yeni_belediye/adim-2.jpg": {
+   "boyut": 158167,
+   "ozet": "ea5ffc917c91687aa1a809fccf1cdc803f1e7339bb8648bfe345f53cb2f49ee2"
+  },
+  "gorseller/munih/yeni_belediye/adim-3.jpg": {
+   "boyut": 170216,
+   "ozet": "25e8f95b8e261215a41e20de21e48c18e4793b7fa3d2be3a43c3288cbf7b8c6f"
+  },
+  "gorseller/munih/yeni_belediye/adim-4.jpg": {
+   "boyut": 191051,
+   "ozet": "2b85084375ee8dbda7c675bdb5a518a455ce68cdfbf7ff7da95efd3f6e4266e4"
+  },
+  "gorseller/munih/yeni_belediye/adim-5.jpg": {
+   "boyut": 240142,
+   "ozet": "d76218659f436252f9fc8065eadc4e4cfad48aae4caf57c407dad5bf148984c1"
+  },
   "gorseller/nevsehir/arka.jpg": {
    "boyut": 374686,
    "ozet": "275377145777fdadec754babd835331ebe1e7a205854d7f98c0a4292ce4abd03"
@@ -181,6 +541,54 @@
   "gorseller/nevsehir/uchisar/adim-5.jpg": {
    "boyut": 274101,
    "ozet": "ad1f47740c4b478d739e6459dcb98dd117c7ab20d6e406774addae0c82270739"
+  },
+  "gorseller/roma/kolezyum/adim-0.jpg": {
+   "boyut": 190329,
+   "ozet": "d6cfb8e4ce6e63d812c316194cba336866561e06e701df6dc0a70cc88638e2cf"
+  },
+  "gorseller/roma/kolezyum/adim-1.jpg": {
+   "boyut": 188037,
+   "ozet": "c6f4208f2d4eef559619616bb0e4cd0c9ef5543f73390d08aae95baf93fa1f88"
+  },
+  "gorseller/roma/kolezyum/adim-2.jpg": {
+   "boyut": 201839,
+   "ozet": "e5140f07c057ceae014b69ed6fca65b3f7d4eba519502fc8414f87aec7b93e46"
+  },
+  "gorseller/roma/kolezyum/adim-3.jpg": {
+   "boyut": 206331,
+   "ozet": "0685d1aa4563f43771f8ca57198bc9de917ba25100d251078ebd12e6c583ca50"
+  },
+  "gorseller/roma/kolezyum/adim-4.jpg": {
+   "boyut": 195072,
+   "ozet": "79ada1649280f43fb6eb4e7f9a184f33149f04a52674aa7aec09008fa34103b6"
+  },
+  "gorseller/roma/kolezyum/adim-5.jpg": {
+   "boyut": 224817,
+   "ozet": "8145e89f02586e402690a6a9c77f557d7605d26b2dd6fc822adf1783020bd8a1"
+  },
+  "gorseller/samsun/amisos/adim-0.jpg": {
+   "boyut": 246832,
+   "ozet": "3305a7ef9c09c19fa9f6591335afb649b4a7214c3f1d081a392ce3aa7be873bb"
+  },
+  "gorseller/samsun/amisos/adim-1.jpg": {
+   "boyut": 226292,
+   "ozet": "c43cd7904e904d03aaf6c29a177dac4ca7b265794f056db2d0da6a21fe33118c"
+  },
+  "gorseller/samsun/amisos/adim-2.jpg": {
+   "boyut": 232840,
+   "ozet": "6c8c0b595ab3860f4143490ce8150431b3c38893f9c4d5edfaa4470793e2bb4a"
+  },
+  "gorseller/samsun/amisos/adim-3.jpg": {
+   "boyut": 236951,
+   "ozet": "03ee76f55f4babd6ff99ab9dc3d31f952774552f5281c24b5dbaeb3a801ebb04"
+  },
+  "gorseller/samsun/amisos/adim-4.jpg": {
+   "boyut": 248037,
+   "ozet": "8d4808f6a2d6d037d93ed4f5e58f8796840797adddd307fa8a91a088f8f10f9b"
+  },
+  "gorseller/samsun/amisos/adim-5.jpg": {
+   "boyut": 279166,
+   "ozet": "068e2cb6d6c5ad2a57aefa6e0b86a3e5d28dbb9c601c98a92a7b930a2cb68372"
   },
   "gorseller/samsun/arka.jpg": {
    "boyut": 338230,
@@ -210,9 +618,57 @@
    "boyut": 191499,
    "ozet": "d672764a6cdb5efad898e5531d9cd1e63528cde57c131ad343e0ad7746f94272"
   },
+  "gorseller/sanliurfa/gobeklitepe/adim-0.jpg": {
+   "boyut": 306779,
+   "ozet": "4323fdaa53f617d6e69b05c46893649c176681483865f1f34164a136b0c05052"
+  },
+  "gorseller/sanliurfa/gobeklitepe/adim-1.jpg": {
+   "boyut": 316021,
+   "ozet": "83063d01956519fa3058171cf490c200f29e1c355a9f4a7a8fcdb64801c81665"
+  },
+  "gorseller/sanliurfa/gobeklitepe/adim-2.jpg": {
+   "boyut": 275515,
+   "ozet": "5198806fc3929b37e2c876e52a4b4a8f917049f6d7f41de8838ffea2bd21f76d"
+  },
+  "gorseller/sanliurfa/gobeklitepe/adim-3.jpg": {
+   "boyut": 264739,
+   "ozet": "7244248bc6b8dda338aecf5bd0bcb241c4444f9e97d368ff9f139fff64f7c9e7"
+  },
+  "gorseller/sanliurfa/gobeklitepe/adim-4.jpg": {
+   "boyut": 264442,
+   "ozet": "d649f8540e01b0d1d550d548a7a24d7214018440232b8c69ba4d93ef765ed1f3"
+  },
+  "gorseller/sanliurfa/gobeklitepe/adim-5.jpg": {
+   "boyut": 337165,
+   "ozet": "a824d9d65cc8f13bace3c3c7ee5a566e742a29236d5374b95c9e32f2987cf896"
+  },
   "gorseller/trabzon/arka.jpg": {
    "boyut": 249434,
    "ozet": "d95ff4f08772b8e4c7c4c217d7710575ebe79ae3c701d165d6fa0b05e20032a6"
+  },
+  "gorseller/trabzon/ataturk_kosku/adim-0.jpg": {
+   "boyut": 305127,
+   "ozet": "5ef9d1a400100508e59ccf94a09236346dfa1171b5c5237f537039e4ecd19625"
+  },
+  "gorseller/trabzon/ataturk_kosku/adim-1.jpg": {
+   "boyut": 306431,
+   "ozet": "6b25b0451851817f5fcdb0b8402d1d665ce02e6fb103a0fab229a480a7b66afa"
+  },
+  "gorseller/trabzon/ataturk_kosku/adim-2.jpg": {
+   "boyut": 269069,
+   "ozet": "dd56bc62ea0fe37d4e503412ec59d1798641cbd523df1b1d1f151774f0b63c93"
+  },
+  "gorseller/trabzon/ataturk_kosku/adim-3.jpg": {
+   "boyut": 281581,
+   "ozet": "ea915d243a2e1cb7d26f4f9ed7e0d8134817572199d1049c23d2e3439cac1ea6"
+  },
+  "gorseller/trabzon/ataturk_kosku/adim-4.jpg": {
+   "boyut": 294012,
+   "ozet": "9c34c33965df489552ac591885fd22e0cb8cab7b284b3b5d284a40a407248022"
+  },
+  "gorseller/trabzon/ataturk_kosku/adim-5.jpg": {
+   "boyut": 329672,
+   "ozet": "bd1090e636a8c8f41db221978f0b916e93b32cd96d9f3b28d994f58b72cff2a6"
   },
   "gorseller/trabzon/sumela/adim-0.jpg": {
    "boyut": 170628,
@@ -237,6 +693,30 @@
   "gorseller/trabzon/sumela/adim-5.jpg": {
    "boyut": 237960,
    "ozet": "90082cb1ad9f8ba38c99267ab1c2ce684294f83be3e92443373bfd28c61d61d4"
+  },
+  "gorseller/venedik/san_marco/adim-0.jpg": {
+   "boyut": 197638,
+   "ozet": "a6d6f97f6a0dec1224157328c5071b1dd65a7a17aad1bdd46802e7c3c1b2cd36"
+  },
+  "gorseller/venedik/san_marco/adim-1.jpg": {
+   "boyut": 180090,
+   "ozet": "300bcf207833b65abfd2532750827d049e75a49467ff83e26decd95d4ac91723"
+  },
+  "gorseller/venedik/san_marco/adim-2.jpg": {
+   "boyut": 177213,
+   "ozet": "2d057c277917d4224f4dcb931978c0617810cd751192395d7ab5e926fbf83505"
+  },
+  "gorseller/venedik/san_marco/adim-3.jpg": {
+   "boyut": 184253,
+   "ozet": "6290adeddd8090d5e149acd330c4b2bf4a5e1c426de666866772131da885e78d"
+  },
+  "gorseller/venedik/san_marco/adim-4.jpg": {
+   "boyut": 199000,
+   "ozet": "ab139448d9a3bc4b9c5e60f989fab56f6030a89ed369c33b198d0ca6c2db4663"
+  },
+  "gorseller/venedik/san_marco/adim-5.jpg": {
+   "boyut": 236933,
+   "ozet": "e7183334d0abf9d5aeee56d09f54eb6a945a83f9cf8b26c668620ea18b8540cb"
   }
  }
 }
